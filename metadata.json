@@ -1,0 +1,6 @@
+{
+  "name": "Aether Vanguard",
+  "description": "Fast-paced roguelite space combat game featuring dynamic 60 FPS arcade dogfights, tactical perk upgrades, epic boss encounters, and synthesized retro sound fx.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
